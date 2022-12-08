@@ -1,0 +1,20 @@
+Tested the UI/UX of integration page.
+Tested the UI of all the integeration panels.
+Compared the text as per the document.
+Tested the links and buttons of the integration panels.
+Configured all the integration panels.
+Tested JIRA integration by default option to cloud.
+Tested JIRA used stored credentials when already synced or linked.
+
+
+Connected the integration with SLACK and created the issue and received update 
+on the slack channel.
+Commented on the issue and tested that comment received on the slack channel.
+Connected the integration with JIRA Sync and loaded the project and checked
+the functionality.
+Connected the integration with JIRA Link and loaded the project and checked
+the functionality.
+Connected the integration with ASANA Sync and loaded the project and checked
+the functionality.
+Tested as a team member for JIRA Sync & ASANA Sync for particular issue.
+Tested mobile view for UI/UX and all the other functionality.
